@@ -7,3 +7,4 @@ Ogni mezzo può essere prenotato da un solo utente alla volta. Il suo stato pass
 Ogni utente può prenotare un mezzo, se disponibile, tramite il metodo "prenotaMezzo".
 Ogni città può avere un numero qualsiasi di mezzi, aggiunti con "aggiungiMezzo".
 
+Ecco il link al codice Codepen: https://codepen.io/Gabricos/pen/raaYvvW?editors=1111
